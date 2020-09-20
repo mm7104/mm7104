@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/mm7104/mm7104/blob/master/Banner.jpg
+(https://github.com/mm7104/mm7104/blob/master/Banner.jpg)
 
 # Mayukh Mousam Mishra
 I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspace and try to learn new languages, intrested in Machine Learning projects,Also find coding intresting.
