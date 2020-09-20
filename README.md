@@ -10,9 +10,9 @@ I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspa
 * C++
 * java
 
-
-<p style="display: flex; justify-contect: space-between;">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayukh&theme=dark&show_icons=true)
+<p style="display: flex; justify-contect: space-between;">
+
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
