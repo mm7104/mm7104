@@ -14,6 +14,9 @@ I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspa
 * C#
 * C++
 * java
+* Iot Hardwares
+* Coding microcontrollers
+* Machine learning
 
 ## Statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayukh&theme=dark&show_icons=true)
