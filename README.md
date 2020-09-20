@@ -8,6 +8,37 @@ I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspa
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
+<html>
+<head>
+<style>
+
+div {
+  background-color: blue;
+}
+
+</style>
+</head>
+<body>
+
+
+<div>
+This is a text inside a div element.
+<p>## skills
+* HTML
+* Python
+* C#
+* C++
+* java
+* Iot Hardwares
+* Coding microcontrollers
+* Machine learning
+</p>
+
+</div>
+
+</body>
+</html>
+
 ## skills
 * HTML
 * Python
