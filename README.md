@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<mayukh>&theme=<radical>" />
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayukh&theme=dark&show_icons=true)
 <!--
 **mm7104/mm7104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
