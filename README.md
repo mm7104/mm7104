@@ -10,7 +10,7 @@ I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspa
 
 
 ## skills
-<span style="color: blue"> Some green text </span>
+<span style="color: #1589F0"> Some green text </span>
 * HTML
 * Python
 * C#
