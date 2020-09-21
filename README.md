@@ -20,8 +20,7 @@ I'm Mayukh a student of SRMIST, works in IoTAlliance, I really enjoy the workspa
 * Machine learning
 * Opencv
 
-## Statistics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mayukh&theme=dark&show_icons=true)
+
 
 # < SEE YA /> !
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
